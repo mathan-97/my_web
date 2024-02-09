@@ -1,0 +1,64 @@
+body{
+    /* background-image:url("background-food.jpg" );  */
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.food{
+    margin-left: 80px;
+}
+.nav ul{
+    float: right;
+   
+}
+.nav ul a{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    display: inline-block;
+    margin: 2px 20px;
+    text-decoration:none;
+    font-size: large;
+}
+div p{
+    margin-top: 40px;
+    margin-left: 3cm;
+    color: black;
+}
+div strong{
+    margin-left: 2cm;
+    color: black;
+
+}
+
+.offer h1{
+    text-align: center;
+    margin-top: 0px;
+    color: black;
+    padding-left: 0px;
+    margin-right: 1000px;
+
+
+}
+
+.offer h2{
+    text-align: center;
+    color: black;
+    padding-left: 0px;
+    margin-right: 1000px;
+
+}
+h3 {
+    font-size: x-large;
+    font-family: monotype corsiva;
+    margin-top: -90px;
+}
+h1{
+    margin-bottom: -30px;
+    margin-left: 10px;
+}
+.container p{
+    /* color: rgb(250, 4, 4); */
+    margin-top: -60px;
+    text-align: center;
+    font-weight: bold;
+}
